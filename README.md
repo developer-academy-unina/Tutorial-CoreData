@@ -98,7 +98,7 @@ Reach out to the maintainer at one of the following places:
 
 ## Authors & contributors
 
-The original setup of this repository is by [Gianluca Orpello](https://github.com/gorpello).
+The original setup of this repository is by [Luca Palmese](https://github.com/pal-luke).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/Tutorial-CoreData/contributors).
 
